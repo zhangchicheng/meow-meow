@@ -1,0 +1,259 @@
+[
+ {
+  "name": "tree_tall",
+  "w": 20,
+  "h": 54,
+  "collider_w": 8,
+  "collider_h": 6,
+  "kind": "tree"
+ },
+ {
+  "name": "tree_big",
+  "w": 43,
+  "h": 51,
+  "collider_w": 12,
+  "collider_h": 6,
+  "kind": "tree"
+ },
+ {
+  "name": "portal",
+  "w": 50,
+  "h": 51,
+  "collider_w": 13,
+  "collider_h": 9,
+  "kind": "portal",
+  "collider_inset": 2
+ },
+ {
+  "name": "totem",
+  "w": 20,
+  "h": 48,
+  "collider_w": 14,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "tree_round",
+  "w": 24,
+  "h": 47,
+  "collider_w": 10,
+  "collider_h": 6,
+  "kind": "tree"
+ },
+ {
+  "name": "tree_double",
+  "w": 43,
+  "h": 49,
+  "collider_w": 12,
+  "collider_h": 6,
+  "kind": "tree"
+ },
+ {
+  "name": "lantern",
+  "w": 14,
+  "h": 42,
+  "collider_w": 10,
+  "collider_h": 6,
+  "kind": "solid"
+ },
+ {
+  "name": "portal_fill",
+  "w": 22,
+  "h": 29,
+  "collider_w": 0,
+  "collider_h": 0,
+  "kind": "deco"
+ },
+ {
+  "name": "statue_small",
+  "w": 12,
+  "h": 21,
+  "collider_w": 10,
+  "collider_h": 6,
+  "kind": "solid"
+ },
+ {
+  "name": "statue_cat",
+  "w": 12,
+  "h": 18,
+  "collider_w": 10,
+  "collider_h": 6,
+  "kind": "solid"
+ },
+ {
+  "name": "sign_tall",
+  "w": 15,
+  "h": 29,
+  "collider_w": 10,
+  "collider_h": 5,
+  "kind": "solid"
+ },
+ {
+  "name": "sign_double",
+  "w": 18,
+  "h": 32,
+  "collider_w": 12,
+  "collider_h": 5,
+  "kind": "solid"
+ },
+ {
+  "name": "sign_small",
+  "w": 16,
+  "h": 17,
+  "collider_w": 12,
+  "collider_h": 5,
+  "kind": "solid"
+ },
+ {
+  "name": "barrel_stack",
+  "w": 17,
+  "h": 24,
+  "collider_w": 14,
+  "collider_h": 10,
+  "kind": "explosive"
+ },
+ {
+  "name": "barrel",
+  "w": 19,
+  "h": 23,
+  "collider_w": 14,
+  "collider_h": 10,
+  "kind": "explosive"
+ },
+ {
+  "name": "barrel_tank",
+  "w": 17,
+  "h": 21,
+  "collider_w": 14,
+  "collider_h": 10,
+  "kind": "explosive"
+ },
+ {
+  "name": "barrel_small",
+  "w": 17,
+  "h": 20,
+  "collider_w": 14,
+  "collider_h": 10,
+  "kind": "explosive"
+ },
+ {
+  "name": "trunk",
+  "w": 14,
+  "h": 20,
+  "collider_w": 12,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "trunk_small",
+  "w": 14,
+  "h": 16,
+  "collider_w": 12,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "chest",
+  "w": 19,
+  "h": 20,
+  "collider_w": 17,
+  "collider_h": 10,
+  "kind": "chest"
+ },
+ {
+  "name": "chest_gold",
+  "w": 19,
+  "h": 20,
+  "collider_w": 17,
+  "collider_h": 10,
+  "kind": "chest"
+ },
+ {
+  "name": "chest_rich",
+  "w": 19,
+  "h": 20,
+  "collider_w": 17,
+  "collider_h": 10,
+  "kind": "chest"
+ },
+ {
+  "name": "crate",
+  "w": 18,
+  "h": 21,
+  "collider_w": 16,
+  "collider_h": 10,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box",
+  "w": 15,
+  "h": 19,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box2",
+  "w": 15,
+  "h": 19,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box3",
+  "w": 15,
+  "h": 20,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box4",
+  "w": 15,
+  "h": 20,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box5",
+  "w": 15,
+  "h": 20,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "gold_box_empty",
+  "w": 15,
+  "h": 19,
+  "collider_w": 13,
+  "collider_h": 8,
+  "kind": "solid"
+ },
+ {
+  "name": "health",
+  "w": 9,
+  "h": 9,
+  "collider_w": 0,
+  "collider_h": 0,
+  "kind": "health"
+ },
+ {
+  "name": "time",
+  "w": 9,
+  "h": 9,
+  "collider_w": 0,
+  "collider_h": 0,
+  "kind": "time"
+ },
+ {
+  "name": "speed",
+  "w": 9,
+  "h": 9,
+  "collider_w": 0,
+  "collider_h": 0,
+  "kind": "speed"
+ }
+]
